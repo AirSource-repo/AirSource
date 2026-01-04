@@ -1,0 +1,12 @@
+Origin: AirSource
+Label: AirSource
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: AirSource is a repository for Sileo and Cydia. It contains all the important tweaks.
+
+SHA256:
+ a6eb8c2cc21a8593a526fefc91d60c08964effbb2eca8613fe46954b3c1e6b14 2166 Packages.bz2
+ c83bc02526246f7c6821c43f23d9567f8956bc2ef1b33100332d343343b80d48 2024 Packages.xz
